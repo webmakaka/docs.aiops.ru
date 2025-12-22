@@ -1,0 +1,15 @@
+---
+layout: null
+permalink: /open-search.xml
+---
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+ <ShortName>docs.aiops.ru</ShortName>
+ <Description>Use Google to search docs.aiops.ru</Description>
+ <Tags>docs.aiops.ru</Tags>
+ <Url type="text/html"
+      template="http://www.google.com/search?as_sitesearch=docs.aiops.ru&amp;q={searchTerms}"/>
+</OpenSearchDescription>

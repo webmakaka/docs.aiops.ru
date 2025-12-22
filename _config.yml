@@ -1,0 +1,15 @@
+# Site settings
+title: MLOPS на русском
+
+description: Начинаем собирать материалы по автоматизации развертывания machine learning проектов
+
+keywords: machine learning, mlops, aiops, devops, gitops, cloud, linux, docker, kubernetes
+
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://docs.aiops.ru' # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
