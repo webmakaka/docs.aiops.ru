@@ -8,7 +8,7 @@ permalink: /
 
 <br/>
 
-// GitHub
+// GitHub  
 https://github.com/webmakaka/Kubernetes-for-Generative-AI-Solutions/tree/main
 
 <br/>
